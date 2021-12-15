@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "image": "1.png",
+      "name": "Product1",
+      "article": "p1",
+      "info": "This protection is wider and thicker than the standard engine protection.",
+      "more": "1",
+      "price": "100",
+      "availability" : true,
+      "specifications": [{
+        "speed": 100,
+        "battery": 90
+      }]
+    },
+    {
+      "image": "2.png",
+      "name": "Product2",
+      "article": "p2",
+      "info": "This protection is wider and thicker than the standard engine protection.",
+      "more": "2",
+      "price": "200",
+      "availability" : false,
+      "specifications": [{
+        "dffdsa": 10,
+        "batfsa": 20
+      }]
+    }
+  ]
+}
