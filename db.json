@@ -1,29 +1,45 @@
 {
   "products": [
     {
-      "image": "1.png",
-      "name": "Product1",
+      "image": [
+        "https://gyroscooter-perm.ru/upload/iblock/20a/electric_dirt_bike_sur_ron_bee_1.jpg",
+        "https://ru.e-scooter.co/i/06/ac/7e/06fc0649313765768390bd3ee8.jpg",
+        "https://www.derbyshireoffroadcentre.co.uk/wp-content/uploads/Youth_Bike_2020_in_Black_197b73cb-e7c9-4fc2-bcbb-91edbf1b489f_900x.jpg"
+      ],
+      "title": "Product1",
       "article": "p1",
-      "info": "This protection is wider and thicker than the standard engine protection.",
-      "more": "1",
+      "short_info": "This protection is wider and thicker than the standard engine protection.",
+      "info": "1",
       "price": "100",
       "availability" : true,
+      "in_stock" : "45",
       "specifications": [{
-        "speed": 100,
-        "battery": 90
+        "value": "black",
+        "label": "Black"
+      }, {
+        "value": "white",
+        "label": "White"
       }]
     },
     {
-      "image": "2.png",
-      "name": "Product2",
+      "image": [
+        "https://ru.e-scooter.co/i/06/ac/7e/06fc0649313765768390bd3ee8.jpg",
+        "https://gyroscooter-perm.ru/upload/iblock/20a/electric_dirt_bike_sur_ron_bee_1.jpg",
+        "https://www.derbyshireoffroadcentre.co.uk/wp-content/uploads/Youth_Bike_2020_in_Black_197b73cb-e7c9-4fc2-bcbb-91edbf1b489f_900x.jpg"
+      ],
+      "title": "Product2",
       "article": "p2",
-      "info": "This protection is wider and thicker than the standard engine protection.",
-      "more": "2",
+      "short_info": "This protection is wider and thicker than the standard engine protection.",
+      "info": "2",
       "price": "200",
-      "availability" : false,
+      "availability" : true,
+      "in_stock" : "69",
       "specifications": [{
-        "dffdsa": 10,
-        "batfsa": 20
+        "value": "black",
+        "label": "Black"
+      }, {
+        "value": "white",
+        "label": "White"
       }]
     }
   ]
